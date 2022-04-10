@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Adrianna and I do many neat things. 
+😄 Pronouns: She/Her
+🌱 I’m currently learning full stack software engineering with 100devs. 
+⚡ Fun fact: I have experience in Civil Engineering and Education and I enjoy incorporating my passion for community in my projects. 
+
+
 <!--
 **adrieason/adrieason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
