@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Adrianna and I do many neat things. <br>
+I'm Adrianna and I do many neat things. <br><br>
 😄 Pronouns: She/Her<br>
 🌱 I’m currently learning full stack software engineering with 100devs. <br>
 ⚡ Fun fact: I have experience in Civil Engineering and Education and I enjoy incorporating my passion for community in my projects. 
