@@ -1,4 +1,3 @@
-<img src="default.png" alt="Engineer, STEM Advocate, Engineer"/>
 <h1 align="center">Hi 👋, I'm Adrianna!</h1>
 <h3 align="center">A passionate Software Engineer from Minneapolis, MN.</h3>
 
