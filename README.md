@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Adrianna!</h1>
+<img src="default1.png" alt="engineer stem advocate educator"/>
 <h3 align="center">A passionate Software Engineer from Minneapolis, MN.</h3>
 
-<p align="left"> <a href="https://twitter.com/adrieason" target="blank"><img src="https://img.shields.io/twitter/follow/adrieason?logo=twitter&style=for-the-badge" alt="adrieason" /></a> </p>
+<p align="center"> <a href="https://twitter.com/adrieason" target="blank"><img src="https://img.shields.io/twitter/follow/adrieason?logo=twitter&style=for-the-badge" alt="adrieason" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development.**
 
