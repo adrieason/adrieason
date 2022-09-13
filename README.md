@@ -20,3 +20,101 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrieason&show_icons=true&locale=en" alt="adrieason" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrieason&" alt="adrieason" /></p>
+
+<!-- PROJECTS -->
+<h2 align="center" color="white">Projects (more coming soon...)</h2>
+<div align="center">
+	<table>
+		<tr>
+			<!--project 1 -->
+			<td width="50%">
+				<h3 align="center" color="white">book tracker app</h2>
+				<div align="center" > 
+					<a href="" target="_blank">
+						<img src="" alt="Book Tracker App">
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href='' target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>Node.js, JavaScript, CSS3, HTML5</strong> - Use this web app to track the books on your bookshelf. Have you read it yet?!</p>
+				</div>
+			</td>
+			<!--project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">Rob Porter Media</h2>
+				<div align="center" > 
+					<a href="" target="_blank">
+						<img src="" alt="Artist portfolio" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A showcase of work done by artist.</p>
+				</div>
+			</td>
+		<tr>
+			<!--project 3 -->
+			<td width="50%">
+				<h3 align="center" color="white">Bus Stop App</h2>
+				<div align="center" > 
+					<a href="" target="_blank">
+						<img src="" alt="Bus Stop Minneapolis Website" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - A simple website to track different Bus Stop locations.</p>
+				</div>
+			</td>
+			<!--project 4 -->
+			<td width="50%">
+				<h3 align="center" color="white">Cuisine Bistro</h2>
+				<div align="center" > 
+					<a href="" target="_blank">
+						<img src="" alt="My Portfolio Site" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        <!--repo --> 
+						<a href="" target="_blank">
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        <!--live site --> 
+						<a href="" target="_blank">
+							<img src="images/liveSite.svg" width="auto" height="28px"/>
+						</a>	
+					</p>
+					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A clean and professional portfolio site.</p>
+				</div>
+			</td>
+	</table>
+</div>
+<br />
