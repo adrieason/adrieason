@@ -95,7 +95,7 @@
 			</td>
 			<!--project 4 -->
 			<td width="50%">
-				<h3 align="center" color="white">Cuisine Bistro</h2>
+				<h3 align="center" color="white">Portfolio</h2>
 				<div align="center" > 
 					<a href="" target="_blank">
 						<img src="" alt="My Portfolio Site" height="200px" />
