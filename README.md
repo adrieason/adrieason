@@ -51,8 +51,8 @@
 			<td width="50%">
 				<h3 align="center" color="white">Rob Porter Media</h2>
 				<div align="center" > 
-					<a href="" target="_blank">
-						<img src="" alt="Artist portfolio" height="200px" />
+					<a href="https://rainbow-muffin-8a4a26.netlify.app" target="_blank">
+						<img src="Screen Shot 2022-09-12 at 7.57.00 PM.png" alt="Artist portfolio" height="200px" />
 					</a>
 					<br>
 					<br>
@@ -71,10 +71,10 @@
 		<tr>
 			<!--project 3 -->
 			<td width="50%">
-				<h3 align="center" color="white">Bus Stop App</h2>
+				<h3 align="center" color="white">Salon App</h2>
 				<div align="center" > 
-					<a href="" target="_blank">
-						<img src="" alt="Bus Stop Minneapolis Website" />
+					<a href="https://spectralcurls.netlify.app" target="_blank">
+						<img src="Screen Shot 2022-09-12 at 7.56.41 PM.png" alt="Salon Site" />
 					</a>
 					<br>
 					<br>
