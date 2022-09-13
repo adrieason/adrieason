@@ -30,8 +30,8 @@
 			<td width="50%">
 				<h3 align="center" color="white">book tracker app</h2>
 				<div align="center" > 
-					<a href="" target="_blank">
-						<img src="" alt="Book Tracker App">
+					<a href="https://bookshelf-mvc-auth-local.dooryardroses.repl.co" target="_blank">
+						<img src="Screen Shot 2022-09-12 at 7.49.50 PM.png" alt="Book Tracker App">
 					</a>
 					<br>
 					<br>
@@ -42,7 +42,6 @@
 						</a>  
                         <!--live site --> 
 						<a href="" target="_blank">
-							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
 					<p><strong>Node.js, JavaScript, CSS3, HTML5</strong> - Use this web app to track the books on your bookshelf. Have you read it yet?!</p>
@@ -64,7 +63,6 @@
 						</a>  
                         <!--live site --> 
 						<a href="" target="_blank">
-							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A showcase of work done by artist.</p>
@@ -87,7 +85,6 @@
 						</a>  
                         <!--live site --> 
 						<a href="" target="_blank">
-							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5</strong> - A simple website to track different Bus Stop locations.</p>
@@ -97,8 +94,8 @@
 			<td width="50%">
 				<h3 align="center" color="white">Portfolio</h2>
 				<div align="center" > 
-					<a href="" target="_blank">
-						<img src="" alt="My Portfolio Site" height="200px" />
+					<a href="https://adrieason.netlify.app" target="_blank">
+						<img src="Screen Shot 2022-09-12 at 7.51.05 PM.png" alt="My Portfolio Site" height="200px" />
 					</a>
 					<br>
 					<br>
@@ -109,7 +106,6 @@
 						</a>  
                         <!--live site --> 
 						<a href="" target="_blank">
-							<img src="images/liveSite.svg" width="auto" height="28px"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, Sass, CSS3, HTML5</strong> - A clean and professional portfolio site.</p>
