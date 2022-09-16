@@ -87,7 +87,7 @@
 						<a href="" target="_blank">
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - A simple website to track different Bus Stop locations.</p>
+					<p><strong>JavaScript, CSS3, HTML5</strong> - </p>
 				</div>
 			</td>
 			<!--project 4 -->
