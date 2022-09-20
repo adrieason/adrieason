@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development.**
 
-- 👨‍💻 All of my projects are available at [https://adrieason.netlify.app](https://adrieason.netlify.app)
+<!-- 👨‍💻 All of my projects are available at [https://adrieason.netlify.app](https://adrieason.netlify.app)--!>
 
 - ⚡ Fun fact **I have a background in Science Education and Construction Engineering.**
 
