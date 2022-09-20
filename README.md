@@ -21,12 +21,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrieason&" alt="adrieason" /></p>
 
-<!-- PROJECTS -->
+<!-- 
 <h2 align="center" color="white">Projects (more coming soon...)</h2>
 <div align="center">
 	<table>
 		<tr>
-			<!--project 1 -->
 			<td width="50%">
 				<h3 align="center" color="white">book tracker app</h2>
 				<div align="center" > 
@@ -36,18 +35,15 @@
 					<br>
 					<br>
 					<p>
-                        <!--repo --> 
 						<a href='' target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!--live site --> 
 						<a href="" target="_blank">
 						</a>	
 					</p>
 					<p><strong>Node.js, JavaScript, CSS3, HTML5</strong> - Use this web app to track the books on your bookshelf. Have you read it yet?!</p>
 				</div>
 			</td>
-			<!--project 2 -->
 			<td width="50%">
 				<h3 align="center" color="white">Rob Porter Media</h2>
 				<div align="center" > 
@@ -57,11 +53,9 @@
 					<br>
 					<br>
 					<p>
-                        <!--repo --> 
 						<a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!--live site --> 
 						<a href="" target="_blank">
 						</a>	
 					</p>
@@ -69,7 +63,6 @@
 				</div>
 			</td>
 		<tr>
-			<!--project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">Salon App</h2>
 				<div align="center" > 
@@ -79,18 +72,15 @@
 					<br>
 					<br>
 					<p>
-                        <!--repo --> 
 						<a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!--live site --> 
 						<a href="" target="_blank">
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5</strong> - </p>
 				</div>
 			</td>
-			<!--project 4 -->
 			<td width="50%">
 				<h3 align="center" color="white">Portfolio</h2>
 				<div align="center" > 
@@ -100,11 +90,9 @@
 					<br>
 					<br>
 					<p>
-                        <!--repo --> 
 						<a href="" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!--live site --> 
 						<a href="" target="_blank">
 						</a>	
 					</p>
@@ -112,5 +100,5 @@
 				</div>
 			</td>
 	</table>
-</div>
+</div> -->
 <br />
