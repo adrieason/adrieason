@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/adrieason" target="blank"><img src="https://img.shields.io/twitter/follow/adrieason?logo=twitter&style=for-the-badge" alt="adrieason" /></a> </p>
 
-🌱 I’m currently learning <b>Full-Stack Web Development.</b>
+🌱 I’m currently learning <b>react.</b>
 
 <!-- 👨‍💻 All of my projects are available at [https://adrieason.netlify.app](https://adrieason.netlify.app)--!>
 
