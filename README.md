@@ -2,10 +2,9 @@
 <h3 align="center">A passionate Software Engineer from Minneapolis, MN.</h3>
 
 <p align="center"> <a href="https://twitter.com/adrieason" target="blank"><img src="https://img.shields.io/twitter/follow/adrieason?logo=twitter&style=for-the-badge" alt="adrieason" /></a> </p>
-
 🌱 I’m currently learning <b>react.</b>
 
-<!-- 👨‍💻 All of my projects are available at [https://adrieason.netlify.app](https://adrieason.netlify.app)--!>
+👨‍💻 All of my projects are available at [https://adrieason.netlify.app](https://adrieason.netlify.app)
 
 ⚡ Fun fact **I have a background in <b>Science Education and Construction Engineering.</b>
 
