@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Minneapolis, MN.</h3>
 
 <p align="center"> <a href="https://twitter.com/adrieason" target="blank"><img src="https://img.shields.io/twitter/follow/adrieason?logo=twitter&style=for-the-badge" alt="adrieason" /></a> </p>
-🌱 I’m currently learning <b>react</b> and <b>Data Structures and Algorithms</b>.<br>
+🌱 I’m currently focused on <b>Data Structures and Algorithms</b>.<br>
 📚 I'm working on client projects. <br>
 👩🏿‍💻 Some of my projects are available at [https://adrieason.netlify.app] <br>
 ⚡ Fun fact **I have a background in <b>Science Education and Construction Engineering.</b>
